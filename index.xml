@@ -9,6 +9,18 @@
     <copyright>Vonernue</copyright>
     <lastBuildDate>Tue, 19 Jan 2021 14:52:11 +0800</lastBuildDate><atom:link href="http://vonernue.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://vonernue.me/about/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vonernue.me/about/</guid>
+      <description>About? About what?? About me? me!? Oh&amp;hellip;
+I&amp;rsquo;m an undergraduate student major in Computer Science and Information Engineering at NTNU.
+Still discovering the world of programming. :p
+Contact me: Facebook Instagram Github Email</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>http://vonernue.me/posts/my-first-post/</link>
       <pubDate>Tue, 19 Jan 2021 14:52:11 +0800</pubDate>
